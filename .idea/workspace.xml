@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea84710a-842f-4bb8-b10a-ec7ed7b23355" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkXLp6ClTNwiViVqOSzwQzUO2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/kerasa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kerasa/predict.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clientApp">
+    <configuration name="clientApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="languageIdentification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="languageIdentification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="languageIdentification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kerasa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kerasa/predict.py" />
+      <option name="PARAMETERS" value="--model 2017-01-31-14-29-14.CRNN_EN_DE_FR_ES_CN_RU.model --input audio1.wav" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="languageIdentification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kerasa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kerasa/predict2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clientApp" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.predict2" />
+        <item itemvalue="Python.predict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea84710a-842f-4bb8-b10a-ec7ed7b23355" name="Default Changelist" comment="" />
+      <created>1583487512762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583487512762</updated>
+      <workItem from="1583487534115" duration="1008000" />
+      <workItem from="1583488556185" duration="610000" />
+      <workItem from="1583489711634" duration="10337000" />
+      <workItem from="1583506631629" duration="4460000" />
+      <workItem from="1583739374204" duration="5179000" />
+      <workItem from="1583998480501" duration="271000" />
+      <workItem from="1583998773961" duration="630000" />
+      <workItem from="1585339355300" duration="2366000" />
+      <workItem from="1586234361741" duration="2541000" />
+      <workItem from="1586239316342" duration="23000" />
+      <workItem from="1586416168542" duration="2099000" />
+      <workItem from="1586590643874" duration="1025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586234490854">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="423" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586234490854" />
+    <state x="423" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1583507422865" />
+    <state x="676" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583741887429">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="676" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1583741887429" />
+    <state x="722" y="193" key="#xdebugger.evaluate" timestamp="1583496540348">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="722" y="193" key="#xdebugger.evaluate/0.24.1920.1056@0.24.1920.1056" timestamp="1583496540348" />
+    <state x="747" y="297" key="FileChooserDialogImpl" timestamp="1583998534721">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="747" y="297" key="FileChooserDialogImpl/0.24.1920.1056@0.24.1920.1056" timestamp="1583998534721" />
+    <state width="1876" height="307" key="GridCell.Tab.0.bottom" timestamp="1586592589318">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586418269247" />
+    <state width="1876" height="343" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841082" />
+    <state width="1876" height="307" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586592589318" />
+    <state width="1876" height="307" key="GridCell.Tab.0.center" timestamp="1586592589315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586418269244" />
+    <state width="1876" height="343" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841082" />
+    <state width="1876" height="307" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586592589315" />
+    <state width="1876" height="307" key="GridCell.Tab.0.left" timestamp="1586592589313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586418269243" />
+    <state width="1876" height="343" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841081" />
+    <state width="1876" height="307" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586592589313" />
+    <state width="1876" height="307" key="GridCell.Tab.0.right" timestamp="1586592589316">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1876" height="317" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586418269245" />
+    <state width="1876" height="343" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841082" />
+    <state width="1876" height="307" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586592589316" />
+    <state width="1876" height="344" key="GridCell.Tab.1.bottom" timestamp="1586236920947">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586236920947" />
+    <state width="1876" height="343" key="GridCell.Tab.1.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841083" />
+    <state width="1876" height="344" key="GridCell.Tab.1.center" timestamp="1586236920946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586236920946" />
+    <state width="1876" height="343" key="GridCell.Tab.1.center/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841082" />
+    <state width="1876" height="344" key="GridCell.Tab.1.left" timestamp="1586236920946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586236920946" />
+    <state width="1876" height="343" key="GridCell.Tab.1.left/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841082" />
+    <state width="1876" height="344" key="GridCell.Tab.1.right" timestamp="1586236920946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="344" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586236920946" />
+    <state width="1876" height="343" key="GridCell.Tab.1.right/0.24.1920.1056@0.24.1920.1056" timestamp="1583766841083" />
+    <state x="453" y="174" key="SettingsEditor" timestamp="1583490579849">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="453" y="174" key="SettingsEditor/0.24.1920.1056@0.24.1920.1056" timestamp="1583490579849" />
+    <state x="747" y="320" width="423" height="436" key="chooseDestDirectoryDialog" timestamp="1583740517062">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="747" y="320" width="423" height="436" key="chooseDestDirectoryDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1583740517062" />
+    <state x="621" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583488559598">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="621" y="380" key="com.intellij.ide.util.TipDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1583488559598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/predict2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/data_loaders/SpectrogramGenerator.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/data_loaders/SpectrogramGenerator.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/data_loaders/SpectrogramGenerator.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/data_loaders/SpectrogramGenerator.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kerasa/data_loaders/SpectrogramGenerator.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/languageIdentification$predict2.coverage" NAME="predict2 Coverage Results" MODIFIED="1586234605134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kerasa" />
+    <SUITE FILE_PATH="coverage/languageIdentification$clientApp.coverage" NAME="clientApp Coverage Results" MODIFIED="1586590869485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/languageIdentification$predict.coverage" NAME="predict Coverage Results" MODIFIED="1586234493129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kerasa" />
+    <SUITE FILE_PATH="coverage/languageIdentification$main.coverage" NAME="main Coverage Results" MODIFIED="1586236132273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
